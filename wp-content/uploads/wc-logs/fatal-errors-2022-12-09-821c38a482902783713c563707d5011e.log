@@ -1,0 +1,12 @@
+2022-12-09T12:06:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ClassicTemplate.php on line 309
+
+2022-12-09T12:06:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractInnerBlock.php on line 58
+
+2022-12-09T12:06:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-includes\functions.php on line 2162
+
+2022-12-09T12:06:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CheckoutFieldsBlock.php on line 15
+
+2022-12-09T12:08:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-content\plugins\woocommerce\includes\tracks\class-wc-tracks-client.php on line 214
+
+2022-12-09T12:08:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductCategories.php on line 389
+

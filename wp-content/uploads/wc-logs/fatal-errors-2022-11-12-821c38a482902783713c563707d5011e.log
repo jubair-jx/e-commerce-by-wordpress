@@ -1,0 +1,14 @@
+2022-11-12T03:32:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-admin\includes\template.php on line 12
+
+2022-11-12T03:34:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-content\plugins\astra-sites\inc\importers\class-astra-customizer-import.php on line 9
+
+2022-11-12T13:37:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-admin\includes\misc.php on line 1629
+
+2022-11-12T13:37:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-content\themes\astra\inc\dynamic-css\pagination.php on line 9
+
+2022-11-12T13:37:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-content\themes\astra\inc\dynamic-css\pagination.php on line 9
+
+2022-11-12T13:37:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-content\themes\astra\inc\dynamic-css\pagination.php on line 9
+
+2022-11-12T13:47:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FirstWebByWp\wp-content\themes\astra\inc\modules\related-posts\customizer\class-astra-related-posts-configs.php on line 12
+
